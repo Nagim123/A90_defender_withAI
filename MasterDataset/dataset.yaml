@@ -1,0 +1,6 @@
+path: ../dataset
+train: train
+
+names:
+  0: no_a90
+  1: has_a90
